@@ -1,5 +1,4 @@
-
-  /* Home Page CSS */
+/* Home Page CSS */
 
 * {
     margin: 0;
@@ -353,6 +352,7 @@
     font-size: 32px;
     margin-bottom: 30px;
     font-family: arial;
+    color: lightgreen;
   }
   
   .contact-container {
@@ -362,6 +362,7 @@
     max-width: 600px;
     margin: 0 auto;
     border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
   }
   
   .contact-names {
